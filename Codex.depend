@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1793882374 source:c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\carte.cpp
+	"carte.h"
+	"partie.h"
+
+1793882299 c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\carte.h
+	<iostream>
+	<optional>
+	<string>
+	<vector>
+	<set>
+	<algorithm>
+	<variant>
+	<array>
+
+1793893616 c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\partie.h
+	"joueur.h"
+	"tour.h"
+	"carte.h"
+	"pioche.h"
+
+1793881802 c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\joueur.h
+	<string>
+	"carte.h"
+	"plateau.h"
+	"mainJoueur.h"
+
+1793881351 c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\plateau.h
+	"carte.h"
+
+1793881746 c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\mainjoueur.h
+	"carte.h"
+
+1793881297 c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\tour.h
+	"joueur.h"
+
+1793881398 c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\pioche.h
+	"carte.h"
+
+1793881826 source:c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\joueur.cpp
+	"joueur.h"
+	"partie.h"
+
+1793881773 source:c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\mainjoueur.cpp
+	"mainJoueur.h"
+	"partie.h"
+	"carte.h"
+
+1793895367 source:c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\partie.cpp
+	"partie.h"
+	"pioche.h"
+
+1793881657 source:c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\pioche.cpp
+	"pioche.h"
+
+1793881375 source:c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\plateau.cpp
+	"plateau.h"
+
+1793881318 source:c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\tour.cpp
+	"tour.h"
+	"partie.h"
+
+1793881276 source:c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\tybor.cpp
+	"tybor.h"
+
+1793881231 c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\tybor.h
+	"carte.h"
+
+1793884440 source:c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\jeuconsole.cpp
+	"jeuConsole.h"
+	<iostream>
+	<limits>
+
+1793884230 c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\jeuconsole.h
+	"partie.h"
+
+1793884630 source:c:\users\agmar\favorites\documents\hutech\hu05\lo21\codex\codex\main.cpp
+	"jeuConsole.h"
+
